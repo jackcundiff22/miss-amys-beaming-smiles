@@ -200,6 +200,17 @@ const observer = new IntersectionObserver((entries, obs) => {
   });
 });
 
+##  Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white)
+![Replit](https://img.shields.io/badge/Hosted%20on-Replit-orange?style=for-the-badge&logo=replit&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Indexed%20By-Google%20Search%20Console-brightgreen?style=for-the-badge&logo=google)
+![SEO](https://img.shields.io/badge/SEO-Optimized-blue?style=for-the-badge)
+
+
 # SEO Implementation
 
 Included:
