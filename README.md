@@ -41,9 +41,9 @@ SEO + Open Graph metadata
 
 Sitemap + robots.txt for Google indexing
 
-# Features
+# Features:
 
-# Video Hero Section
+# (Video Hero Section)
 
 The homepage uses a muted looping MP4 hero background with layered overlays and glow filters to create a premium aesthetic.
 
@@ -55,7 +55,7 @@ Implemented in index.html:
 
 -Radial “glow” effect.
 
-# Before / After Slider
+# (Before / After Slider)
 
 The site uses the TwentyTwenty jQuery plugin to showcase whitening results with interactive sliders implemented in script.js.
 
@@ -65,7 +65,7 @@ The site uses the TwentyTwenty jQuery plugin to showcase whitening results with 
 
 -Lazy loading.
 
-# Smooth Scroll & Scroll Animations
+# (Smooth Scroll & Scroll Animations)
 
 -Smooth scrolling for navigation + fade-in visibility triggered by IntersectionObserver:
 
@@ -73,7 +73,7 @@ The site uses the TwentyTwenty jQuery plugin to showcase whitening results with 
 
 -Performance-optimized.
 
-# Testimonial Carousel
+# (Testimonial Carousel)
 
 -A custom JavaScript rotating testimonial block (every 5 seconds).
 
@@ -81,7 +81,7 @@ The site uses the TwentyTwenty jQuery plugin to showcase whitening results with 
 
 -CSS driven fade styling.
 
-# Mobile Navigation
+# (Mobile Navigation)
 
 -Hamburger menu.
 
@@ -90,7 +90,7 @@ The site uses the TwentyTwenty jQuery plugin to showcase whitening results with 
 -Accessibility attributes (aria-expanded).
 
 
-# Functional Contact Form
+# (Functional Contact Form)
 
 -Form submitted via Formspree with redirect to a Thank You page:
 
