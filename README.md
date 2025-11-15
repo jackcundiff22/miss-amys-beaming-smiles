@@ -1,4 +1,4 @@
-# miss-amys-beaming-smiles
+
 
 # Miss Amy’s Beaming Smiles — Mobile Teeth Whitening Website
 
@@ -10,8 +10,8 @@ Designed, developed, and deployed by Jack Cundiff.
 Jack Cundiff
 Computer Science Major • Software & AI Enthusiast
 📍 Kennesaw State University
-🔗 GitHub: your link here
-🔗 LinkedIn: your link here
+🔗 GitHub: https://github.com/jackcundiff22
+🔗 LinkedIn: https://wwww.linkedin.com/in/jack-cundiff-a9b621326/
 
 # Visit Live Site: https://www.missamysmiles.com
 
@@ -46,10 +46,13 @@ Sitemap + robots.txt for Google indexing
 # Video Hero Section
 
 The homepage uses a muted looping MP4 hero background with layered overlays and glow filters to create a premium aesthetic.
+
 Implemented in index.html:
 
 -Video with fallback image.
+
 -Branded overlay color.
+
 -Radial “glow” effect.
 
 # Before / After Slider
@@ -57,51 +60,80 @@ Implemented in index.html:
 The site uses the TwentyTwenty jQuery plugin to showcase whitening results with interactive sliders implemented in script.js.
 
 -Before and after labels.
+
 -Multiple examples.
+
 -Lazy loading.
 
 # Smooth Scroll & Scroll Animations
+
 -Smooth scrolling for navigation + fade-in visibility triggered by IntersectionObserver:
+
 -Elements animate on scroll.
+
 -Performance-optimized.
 
 # Testimonial Carousel
+
 -A custom JavaScript rotating testimonial block (every 5 seconds).
+
 -Cycles through blockquote elements.
+
 -CSS driven fade styling.
 
 # Mobile Navigation
+
 -Hamburger menu.
+
 -Expand/collapse behavior.
+
 -Accessibility attributes (aria-expanded).
 
 
 # Functional Contact Form
+
 -Form submitted via Formspree with redirect to a Thank You page:
+
 -Hidden subject line
+
 -Thank you redirection (thankyou.html)
 
 # Technologies Used
+
 Frontend:
+
 -HTML5, CSS3, JavaScript
+
 -Responsive design
+
 -Google Fonts (Playfair Display, Open Sans)
+
 -TwentyTwenty comparison plugin
+
 -jQuery
 
 # SEO & Analytics
+
 -Canonical URL
+
 -Open Graph tags
+
 -Schema.org LocalBusiness structured data (JSON-LD)
+
 -Lazy loaded images for performance
 
 # Deployment
+
 -Hosted & coded in Replit
+
 -Connected to custom domain
+
 -Indexed via Google Search Console
+
 -Integrated with Google Business listing for local SEO
 
 # File Structure 
+
 📁 miss-amys-beaming-smiles
 ├── index.html
 ├── style.css
@@ -115,6 +147,7 @@ Frontend:
 └── README.md (this file)
 
 # Code Highlights
+
 Smooth Scrolling
 (From script.js)
 
@@ -129,6 +162,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 
 # Testimonials Rotator
+
 const quotes = document.querySelectorAll('#testimonials blockquote');
 let idx = 0;
 setInterval(() => {
@@ -138,12 +172,14 @@ setInterval(() => {
 }, 5000);
 
 # Hero Section HTML 
+
 <video class="hero-video" autoplay muted loop playsinline>
   <source src="smiling.mp4" type="video/mp4" />
   <img src="backupImage.jpg" alt="Miss Amy teeth whitening" />
 </video>
 
 # Animate on Scroll 
+
 const observer = new IntersectionObserver((entries, obs) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
@@ -154,15 +190,20 @@ const observer = new IntersectionObserver((entries, obs) => {
 });
 
 # Contact Redirect 
+
 <input type="hidden" name="_redirect" value="https://www.missamysmiles.com/thankyou.html">
 
 # SEO Implementation
+
 Included:
+
 <meta name="description">
 <meta name="keywords">
 
 -Open Graph share preview
+
 -JSON-LD LocalBusiness schema
+
 -robots.txt + sitemap
 
 These significantly increase discoverability on Google and improve business authority.
