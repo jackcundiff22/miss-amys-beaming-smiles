@@ -146,6 +146,22 @@ Frontend:
 ├── /videos
 └── README.md (this file)
 
+# Screenshots 
+
+## Homepage 
+
+<img width="1915" height="962" alt="homepage screenshot" src="https://github.com/user-attachments/assets/80d0a1cd-8b65-4b1d-aedc-b49e245d8347" />
+
+
+## Before and After 
+
+
+<img width="1900" height="802" alt="before screenshot" src="https://github.com/user-attachments/assets/a3cdf19e-6630-4ac6-8bfd-4d3bbb9aa679" />
+
+
+<img width="1913" height="921" alt="after screen shot" src="https://github.com/user-attachments/assets/45f8563c-f303-44db-8939-463bffcd0b95" />
+
+
 # Code Highlights
 
 Smooth Scrolling
