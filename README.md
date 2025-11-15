@@ -171,12 +171,7 @@ setInterval(() => {
   quotes[idx].classList.add('active');
 }, 5000);
 
-# Hero Section HTML 
 
-<video class="hero-video" autoplay muted loop playsinline>
-  <source src="smiling.mp4" type="video/mp4" />
-  <img src="backupImage.jpg" alt="Miss Amy teeth whitening" />
-</video>
 
 # Animate on Scroll 
 
@@ -188,10 +183,6 @@ const observer = new IntersectionObserver((entries, obs) => {
     }
   });
 });
-
-# Contact Redirect 
-
-<input type="hidden" name="_redirect" value="https://www.missamysmiles.com/thankyou.html">
 
 # SEO Implementation
 
