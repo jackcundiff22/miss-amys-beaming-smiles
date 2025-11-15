@@ -11,7 +11,7 @@ Jack Cundiff
 Computer Science Major • Software & AI Enthusiast
 📍 Kennesaw State University
 🔗 GitHub: https://github.com/jackcundiff22
-🔗 LinkedIn: https://wwww.linkedin.com/in/jack-cundiff-a9b621326/
+🔗 LinkedIn: https://wwww.linkedin.com/in/jack-cundiff/
 
 # Visit Live Site: https://www.missamysmiles.com
 
